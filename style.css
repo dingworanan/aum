@@ -1,0 +1,54 @@
+body{
+  background-color:#373737;
+  color:#fff;
+}
+.ll{
+  display: inline;
+border: 1px ;
+width: 200;
+height: 200;
+padding: 0 1rem;
+
+}
+.lp{
+  display: inline;
+border: 1px ;
+width: 200;
+height: 200;
+padding: 0 1rem;
+
+}
+.le{
+  display: inline;
+border: 1px ;
+width: 200;
+height: 200;
+padding: 0 1rem;
+
+
+}
+.po{
+  text-align: left;
+}
+.lo{
+  color: gray;
+  text-align: left;
+}
+.lo:hover{
+  color: #fff;
+}
+.TIDTOR{
+  display: inline;
+border: 1px ;
+width: 200;
+height: 200;
+padding: 0 1rem;
+}
+.รูป{
+  width: 30px;
+  height: 30px;
+}
+.รูป:hover{
+  width: 35px;
+  height: 35px;
+}
